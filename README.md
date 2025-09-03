@@ -10,7 +10,9 @@ This project classifies emails as **Spam** or **Ham (Not Spam)** using text prep
 👉 [Try it on Hugging Face Spaces](https://huggingface.co/spaces/your-username/your-space-name)  
 
 ---
-## (**Must**) Please download the model.pkl file from below link : 
+(**Must**) Please download the model.pkl file from below link : 
+- You can download those files from the Google Drive link below.
+  Download the files from [here](https://drive.google.com/file/d/1wSsVq__jCA2QYKBkg-TqCSYtgXK5tj0j/view?usp=sharing)  
 ## 📌 Features  
 - ✅ Detects whether an email is **Spam** or **Ham**  
 - ✅ Preprocessing pipeline:  
