@@ -7,7 +7,7 @@ This project classifies emails as **Spam** or **Ham (Not Spam)** using text prep
 ---
 
 ## 🚀 Live Demo  
-👉 [Try it on Hugging Face Spaces](https://huggingface.co/spaces/your-username/your-space-name)  
+👉 [Try it on Hugging Face Spaces](https://huggingface.co/spaces/qShihab/SMS-Email-Spam-Classification)  
 
 ---
 (**Must**) Please download the model.pkl file from below link : 
